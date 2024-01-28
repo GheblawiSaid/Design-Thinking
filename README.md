@@ -4,4 +4,5 @@ Participating in the Smart Grocery Management System (SGMS) project was an enlig
 
 To further improve the project, incorporating a more diverse range of technological integrations could have provided us with a more robust and versatile system, catering to a broader spectrum of grocery management needs.
 
-Video reflection: https://www.youtube.com/watch?v=gf4Wr7PazKI
+Video reflection: https://youtu.be/1TRx04SvakQ
+
